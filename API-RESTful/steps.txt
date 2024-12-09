@@ -1,0 +1,13 @@
+npm init -y => starts the project
+
+tsc --init => starts the ts
+
+npm install config dotenv express express-validator mongoose morgan winston => install development dependencies
+
+npm install @types/config @types/express @types/mongoose @types/morgan @types/node ts-node-dev typescript --save-dev
+
+"dev": "ts-node-dev --respawn --transpile-only src/app.ts" => change the scripts (package.json)
+
+npm run dev => run the code
+
+express config => async function + open the door (config and default.ts)

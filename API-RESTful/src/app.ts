@@ -14,6 +14,11 @@ import db from '../config/db'
 // Logger
 import Logger from '../config/logger'
 
+// Middlewares
+import morganMiddleware from './middleware/morganMiddleware'
+
+app.use(morganMiddleware)
+
 // Importar e usar o router
 import router from './router'
 app.use('/api/', router)

@@ -20,3 +20,7 @@ create a .env file => for db user and db password + access variables (process.en
 
 create a .gitignore file => not push .env and node_modules
 
+create a logger => using winston to config levels, colors and files transports
+
+create a morganMiddleware => to show on console the requests HTTP status (loggins them)
+

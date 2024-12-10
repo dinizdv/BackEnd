@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/body-parser": "^1.19.5",
+    "body-parser": "^1.20.3",
     "config": "^3.3.12",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",

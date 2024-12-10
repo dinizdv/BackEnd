@@ -11,3 +11,7 @@ npm install @types/config @types/express @types/mongoose @types/morgan @types/no
 npm run dev => run the code
 
 express config => async function + open the door (config and default.ts)
+
+router creation + send res status
+
+create a MongoDB Atlas database + db.ts config with mongoose

@@ -3,11 +3,19 @@ import config from 'config'
 
 const app = express()
 
-// JSON middleware => analyzes JSON data
+// Middleware para JSON
 app.use(express.json())
+
+// DB
+import db from '../config/db'
+
+// Importar e usar o router
+import router from './router'
+app.use('/api/', router)
 
 const port = config.get<number>('port')
 
 app.listen(port, async () => {
-    console.log(`Application running on door ${port}`)
+    await db() // just starts the application if connect 
+    console.log(`Aplicação rodando na porta ${port}`)
 })

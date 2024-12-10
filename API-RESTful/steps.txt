@@ -15,3 +15,8 @@ express config => async function + open the door (config and default.ts)
 router creation + send res status
 
 create a MongoDB Atlas database + db.ts config with mongoose
+
+create a .env file => for db user and db password + access variables (process.env.YOUR_VARIABLE)
+
+create a .gitignore file => not push .env and node_modules
+

@@ -1,0 +1,44 @@
+2024-12-10 16:28:24:2824 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 16:29:14 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:29:31 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:30:23 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:30:25 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:30:34 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:30:38 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-10 | 16:30:38 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:30:49 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-10 | 16:30:49 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:31:00 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-10 | 16:31:00 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:31:04 - [32mhttp[39m - [32mConnected to DB![39m
+2024-12-10 | 16:31:04 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:31:13 - [32mhttp[39m - [32mConnected to DB![39m
+2024-12-10 | 16:31:13 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:31:39 - [35mhttp[39m - [35mConnected to DB![39m
+2024-12-10 | 16:31:39 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:31:51 - [33mwarn[39m - [33mConnected to DB![39m
+2024-12-10 | 16:31:51 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:32:13 - [37mdebug[39m - [37mConnected to DB![39m
+2024-12-10 | 16:32:13 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:32:19 - [31merror[39m - [31mConnected to DB![39m
+2024-12-10 | 16:32:19 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:32:30 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-10 | 16:32:30 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:32:42 - [31merror[39m - [31mUnable to connect.[39m
+2024-12-10 | 16:32:42 - [31merror[39m - [31mError: TypeError: colors[Colorizer.allColors[lookup]] is not a function[39m
+2024-12-10 | 16:32:47 - [31merror[39m - [31mUnable to connect.[39m
+2024-12-10 | 16:32:47 - [31merror[39m - [31mError: TypeError: colors[Colorizer.allColors[lookup]] is not a function[39m
+2024-12-10 | 16:32:58 - [34minfo[39m - [34mConnected to DB![39m
+2024-12-10 | 16:32:58 - [34minfo[39m - [34mAplicação rodando na porta 3000[39m
+2024-12-10 | 16:33:08 - [31merror[39m - [31mUnable to connect.[39m
+2024-12-10 | 16:33:08 - [31merror[39m - [31mError: TypeError: colors[Colorizer.allColors[lookup]] is not a function[39m
+2024-12-10 | 16:33:15 - [31merror[39m - [31mUnable to connect.[39m
+2024-12-10 | 16:33:15 - [31merror[39m - [31mError: TypeError: colors[Colorizer.allColors[lookup]] is not a function[39m
+2024-12-10 | 16:33:22 - [31merror[39m - [31mUnable to connect.[39m
+2024-12-10 | 16:33:22 - [31merror[39m - [31mError: TypeError: colors[Colorizer.allColors[lookup]] is not a function[39m
+2024-12-10 | 16:33:25 - [31merror[39m - [31mUnable to connect.[39m
+2024-12-10 | 16:33:25 - [31merror[39m - [31mError: TypeError: colors[Colorizer.allColors[lookup]] is not a function[39m
+2024-12-10 | 16:33:34 - [31merror[39m - [31mUnable to connect.[39m
+2024-12-10 | 16:33:34 - [31merror[39m - [31mError: TypeError: colors[Colorizer.allColors[lookup]] is not a function[39m
+2024-12-10 | 16:33:47 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-10 | 16:33:47 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m

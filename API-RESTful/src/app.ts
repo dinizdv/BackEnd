@@ -11,6 +11,9 @@ app.use(express.json())
 // DB
 import db from '../config/db'
 
+// Logger
+import Logger from '../config/logger'
+
 // Importar e usar o router
 import router from './router'
 app.use('/api/', router)
@@ -19,5 +22,5 @@ const port = config.get<number>('port')
 
 app.listen(port, async () => {
     await db() // just starts the application if connect 
-    console.log(`Aplicação rodando na porta ${port}`)
+    Logger.info(`Aplicação rodando na porta ${port}`)
 })

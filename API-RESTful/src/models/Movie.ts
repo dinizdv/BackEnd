@@ -14,4 +14,4 @@ const movieSchema = new Schema(
     }
 )
 
-export const MovieModel = model('Movie', movieSchema)
+export const MovieModel = model('Movie', movieSchema) // new collection on db 

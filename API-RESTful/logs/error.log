@@ -13,3 +13,7 @@
 2024-12-10 | 16:33:25 - [31merror[39m - [31mError: TypeError: colors[Colorizer.allColors[lookup]] is not a function[39m
 2024-12-10 | 16:33:34 - [31merror[39m - [31mUnable to connect.[39m
 2024-12-10 | 16:33:34 - [31merror[39m - [31mError: TypeError: colors[Colorizer.allColors[lookup]] is not a function[39m
+2024-12-11 | 17:15:49 - [31merror[39m - [31mError: CastError: Cast to ObjectId failed for value "675998539c9a01a97bcefc5av" (type string) at path "_id" for model "Movie"[39m
+2024-12-11 | 17:17:23 - [31merror[39m - [31mError: CastError: Cast to ObjectId failed for value "6759f33fb4da6b31a7cef3802" (type string) at path "_id" for model "Movie"[39m
+2024-12-11 | 17:17:29 - [31merror[39m - [31mError: CastError: Cast to ObjectId failed for value "6759f33fb4da6b31a7cef3802" (type string) at path "_id" for model "Movie"[39m
+2024-12-11 | 17:22:44 - [31merror[39m - [31mError: CastError: Cast to ObjectId failed for value "6759f33fb4da6b31a7cef3802" (type string) at path "_id" for model "Movie"[39m

@@ -300,3 +300,103 @@
 [35m[39m
 2024-12-11 | 10:49:07 - [35mhttp[39m - [35mPOST /api/movie 201 - - 206.559[39m
 [35m[39m
+2024-12-11 | 17:10:56 - [35mhttp[39m - [35mGET /api/test 200 - - 4.184[39m
+[35m[39m
+2024-12-11 | 17:10:58 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:10:58 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:14:08 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:14:08 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:14:12 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:14:12 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:14:17 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:14:17 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:14:22 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:14:22 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:14:28 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:14:28 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:15:48 - [35mhttp[39m - [35mGET /api/movie/675998539c9a01a97bcefc5a - - - -[39m
+[35m[39m
+2024-12-11 | 17:15:49 - [31merror[39m - [31mError: CastError: Cast to ObjectId failed for value "675998539c9a01a97bcefc5av" (type string) at path "_id" for model "Movie"[39m
+2024-12-11 | 17:15:57 - [35mhttp[39m - [35mGET /api/movie/675998539c9a01a97bcefc5av - - - -[39m
+[35m[39m
+2024-12-11 | 17:17:03 - [35mhttp[39m - [35mPOST /api/movie 201 - - 209.934[39m
+[35m[39m
+2024-12-11 | 17:17:23 - [31merror[39m - [31mError: CastError: Cast to ObjectId failed for value "6759f33fb4da6b31a7cef3802" (type string) at path "_id" for model "Movie"[39m
+2024-12-11 | 17:17:27 - [35mhttp[39m - [35mGET /api/movie/6759f33fb4da6b31a7cef3802 - - - -[39m
+[35m[39m
+2024-12-11 | 17:17:29 - [31merror[39m - [31mError: CastError: Cast to ObjectId failed for value "6759f33fb4da6b31a7cef3802" (type string) at path "_id" for model "Movie"[39m
+2024-12-11 | 17:17:32 - [35mhttp[39m - [35mGET /api/movie/6759f33fb4da6b31a7cef3802 - - - -[39m
+[35m[39m
+2024-12-11 | 17:18:25 - [35mhttp[39m - [35mGET /api/movie/6759f33fb4da6b31a7cef380 - - - -[39m
+[35m[39m
+2024-12-11 | 17:18:54 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:18:54 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:18:57 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:18:57 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:19:01 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:19:01 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:19:04 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:19:04 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:19:10 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:19:10 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:19:22 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:19:22 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:19:56 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:19:56 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:20:12 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:20:12 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:20:16 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:20:16 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:20:32 - [35mhttp[39m - [35mGET /api/movie/6759f33fb4da6b31a7cef380 - - - -[39m
+[35m[39m
+2024-12-11 | 17:20:39 - [35mhttp[39m - [35mGET /api/movie/6759f33fb4da6b31a7cef380 - - - -[39m
+[35m[39m
+2024-12-11 | 17:20:59 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:20:59 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:21:03 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:21:03 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:21:10 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:21:10 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:21:27 - [35mhttp[39m - [35mGET /api/movie/6759f33fb4da6b31a7cef380 - - - -[39m
+[35m[39m
+2024-12-11 | 17:21:54 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:21:54 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:22:08 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:22:08 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:22:44 - [31merror[39m - [31mError: CastError: Cast to ObjectId failed for value "6759f33fb4da6b31a7cef3802" (type string) at path "_id" for model "Movie"[39m
+2024-12-11 | 17:22:58 - [35mhttp[39m - [35mGET /api/movie/6759f33fb4da6b31a7cef3802 - - - -[39m
+[35m[39m
+2024-12-11 | 17:23:19 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:23:19 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:23:27 - [35mhttp[39m - [35mGET /api/movie/6759f33fb4da6b31a7cef3802 400 - - 5.438[39m
+[35m[39m
+2024-12-11 | 17:23:32 - [35mhttp[39m - [35mGET /api/movie/6759f33fb4da6b31a7cef380 200 - - 181.500[39m
+[35m[39m
+2024-12-11 | 17:24:22 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:24:22 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:24:25 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:24:25 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:24:29 - [35mhttp[39m - [35mGET /api/movie/6759f33fb4da6b31a7cef380 200 - - 241.078[39m
+[35m[39m
+2024-12-11 | 17:25:23 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:25:23 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:26:52 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:26:52 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:27:04 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:27:04 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:27:15 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:27:15 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:27:19 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:27:19 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:27:23 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:27:23 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:27:49 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:27:49 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:27:52 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:27:52 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:27:57 - [32minfo[39m - [32mConnected to DB![39m
+2024-12-11 | 17:27:57 - [32minfo[39m - [32mAplicação rodando na porta 3000[39m
+2024-12-11 | 17:28:30 - [35mhttp[39m - [35mGET /api/movie 404 - - 5.052[39m
+[35m[39m
+2024-12-11 | 17:28:41 - [35mhttp[39m - [35mGET /api/movies 200 - - 180.375[39m
+[35m[39m

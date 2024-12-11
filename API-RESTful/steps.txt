@@ -31,3 +31,5 @@ create a controllers => function for create movie
 -> CONTROLLERS: receive the requests. Can be to change the model state, as a post request, for example
 
 create a handleValidation.ts for get errors => display in each individual route (because just some need)
+
+create a get requests for movies and movieId => movieController.ts

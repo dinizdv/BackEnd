@@ -24,3 +24,9 @@ create a logger => using winston to config levels, colors and files transports
 
 create a morganMiddleware => to show on console the requests HTTP status (loggins them)
 
+create a models + Movie.ts => new Schema exported
+-> MODELS: contain data validation, bussiness laws, logic, access db
+
+create a controllers => function for create movie
+-> CONTROLLERS: receive the requests. Can be to change the model state, as a post request, for example
+
